@@ -42,10 +42,11 @@ header,
 footer {
 border-radius: 5px;
 padding: 10px;
+/* backgrounf color should be a darker gray so that you see it on the page */
 background-color: rgb(207,232,220);
 border: 2px solid rgb(79,185,227);
 }
-
+/* you don't have an aside element in your html */
 aside {
 border-right: 1px solid #999;
 }  

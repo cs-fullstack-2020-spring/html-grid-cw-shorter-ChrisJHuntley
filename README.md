@@ -1,5 +1,7 @@
 # html-grid-cw
-
+#### If you get stuck ask us questions and don't copy previous assignments or examples into your classwork
+#### Check out my comments in your HTML and CSS files
+#### Score : 1/5
 ### Problem1:
 Create a site similar to cw2.png.
 
